@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "Open selected links",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Open selected links.",
+        "description": "Description of the extension."
+    },
+    "menuItemTitle": {
+        "message": "選択範囲内の全てのリンクを開く",
+        "description": "Title of the menu item."
+    }
+}
